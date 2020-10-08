@@ -1,2 +1,1 @@
-# EB-Deploy
 # Heroku-Deploy
